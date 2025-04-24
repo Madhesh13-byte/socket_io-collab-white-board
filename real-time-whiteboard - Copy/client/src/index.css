@@ -1,0 +1,35 @@
+/* src/index.css */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 2rem;
+  background: #f0f4f8;
+}
+
+.app h1 {
+  margin-bottom: 2rem;
+}
+
+.form-container {
+  background: white;
+  padding: 1rem 2rem;
+  margin: 1rem auto;
+  max-width: 400px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+input {
+  width: 100%;
+  padding: 0.5rem;
+  margin: 0.5rem 0;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  background: #1e90ff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
